@@ -1,0 +1,8 @@
+.itemWrapper{
+    border: 1px solid #d8d8d8;
+    margin: 10px auto;
+    display: flex;
+    align-items: center;
+    gap: 15px ;
+    padding: 15px 20px ;
+}

@@ -1,0 +1,5 @@
+.item {
+    display: flex;
+    justify-content: space-around;
+    color: #3d3d3d;
+}

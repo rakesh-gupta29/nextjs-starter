@@ -1,0 +1,9 @@
+
+.wrapper input{
+    padding: 20px 30px;
+    outline: none;
+    border: 1px solid #d8d8d8;
+    font-size: larger ;
+    font-family: "Poppins",sans-serif;
+    
+}
